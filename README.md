@@ -1,1 +1,1 @@
-# 🥮 Fluffy guacamole [ Leetcode ]
+# fluffy-guacamole-leetcode
